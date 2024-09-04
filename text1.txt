@@ -1,2 +1,6 @@
 Hello 
 How are you!
+
+change the text file
+stagging area will be in local repository
+
